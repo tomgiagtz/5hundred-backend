@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  winner: 1
+  dealer: MyString
+  team_1_point_total: 1
+  team_2_point_total: 1
+  game: one
+
+two:
+  winner: 1
+  dealer: MyString
+  team_1_point_total: 1
+  team_2_point_total: 1
+  game: two

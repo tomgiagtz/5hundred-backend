@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  team: one
+  suit: 1
+  num_tricks: 1
+  bidder: MyString
+  tricks_taken: 1
+  round: one
+
+two:
+  team: two
+  suit: 1
+  num_tricks: 1
+  bidder: MyString
+  tricks_taken: 1
+  round: two
